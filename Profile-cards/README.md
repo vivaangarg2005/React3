@@ -36,4 +36,4 @@ A single `Card` component that renders user data dynamically via props.
 Clone the repository:
 
 ```bash
-git clone https://github.com/vivaangarg2005/profile-dashboard-cards.git
+git clone https://github.com/vivaangarg2005/Profile-cards
